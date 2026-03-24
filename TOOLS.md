@@ -45,6 +45,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - SSH config entry lives in: `~/.ssh/config`
 - `.clawhub/` is ignored in the workspace repo.
 
+### Vault repo backup
+
+- Obsidian vault path: `/home/mike/vault`
+- Vault repo remote should use: `git@github-openclaw-vault:forgotyourpassword/personal-vault.git`
+- SSH host alias: `github-openclaw-vault`
+- Dedicated deploy key path: `~/.ssh/openclaw_vault_github`
+- When making changes to the Obsidian vault for Mike, proactively offer to commit and push the vault repo so it stays backed up.
+
 ### Gmail skill
 
 - Gmail skill is installed at `skills/gmail`
