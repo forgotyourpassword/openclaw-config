@@ -35,6 +35,22 @@ Things like:
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
+## Local setup notes
+
+### GitHub workspace repo
+
+- Workspace repo remote: `git@github-openclaw-workspace:forgotyourpassword/openclaw-config.git`
+- SSH host alias: `github-openclaw-workspace`
+- Dedicated deploy key path: `~/.ssh/openclaw_workspace_github`
+- SSH config entry lives in: `~/.ssh/config`
+- `.clawhub/` is ignored in the workspace repo.
+
+### Gmail skill
+
+- Gmail skill is installed at `skills/gmail`
+- `MATON_API_KEY` is provided through OpenClaw secrets via env provider
+- Gmail skill secret mapping uses `skills.entries.gmail.apiKey`
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
