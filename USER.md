@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Mike
 - **Pronouns:** _(optional)_
 - **Timezone:** America/New_York
-- **Notes:** Wants a direct assistant who gets things done and anticipates needs.
+- **Notes:** Wants a direct assistant who gets things done and anticipates needs. Working style will develop over time. No heartbeats for now.
 
 ## Context
 
