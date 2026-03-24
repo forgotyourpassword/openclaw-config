@@ -1,0 +1,16 @@
+# Projects Context
+
+## Obsidian home project system
+- Canonical user-facing house/project notes live in `/home/mike/vault/Home`.
+- The system includes dashboard, area notes, project notes, maintenance, decisions, contractors, purchases, and templates.
+- Active project notes should preserve useful reasoning context, not just task titles.
+
+## Current notable captured projects
+- Kids bathroom drywall repair from pulled-out toilet paper holder.
+- Take old bed from basement to dump.
+- Replace loose toilet paper holder in master bathroom.
+- Renovate kids bathroom (low priority, long-term).
+- Replace top floor carpet with LVP; hire out rather than DIY because Mike's time is better spent on Harbor View Consulting.
+- Patch and paint living room ceiling water spots after master bathroom tub overflow leak; cosmetic repair should follow confidence that source is fixed.
+- Clean walls throughout house; upstairs is especially bad.
+- Weed and clean up backyard hill before spring growth accelerates, on a nice-weather day.

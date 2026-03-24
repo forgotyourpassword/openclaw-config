@@ -1,0 +1,15 @@
+# Systems
+
+## Paths and repos
+- OpenClaw workspace: `/home/mike/.openclaw/workspace`
+- Obsidian vault: `/home/mike/vault`
+- Ellen memory repo: `/home/mike/ellen-memory`
+
+## Git remotes
+- Vault repo uses SSH host alias `github-openclaw-vault`
+- Workspace repo uses SSH host alias `github-openclaw-workspace`
+
+## Integrations
+- Gmail skill works through Maton using `MATON_API_KEY`.
+- Google Calendar is not currently available through the same Maton flow.
+- Marketplace calendar skills `gcalcli-calendar` and `gog-calendar` were installed into the workspace, but their required local binaries/config are not yet completed.

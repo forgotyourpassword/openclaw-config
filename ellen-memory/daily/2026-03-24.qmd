@@ -1,0 +1,17 @@
+# 2026-03-24
+
+## Work completed
+- Configured Gmail skill access using Maton and refreshed the Google OAuth connection.
+- Designed and built a `Home/` project tracking system in the Obsidian vault.
+- Added multiple real home projects and linked area notes.
+- Installed marketplace calendar skills `gcalcli-calendar` and `gog-calendar` into the workspace for future setup.
+- Designed a split architecture: Obsidian for Mike's notes/projects, QMD repo for Ellen's internal memory.
+
+## Learned
+- Mike wants home projects saved proactively unless ambiguous.
+- Project planning should account for priority, urgency, effort, cost, and time fit.
+- Large projects should preserve decision context like hire-vs-DIY reasoning.
+
+## Follow-up
+- Calendar integration still needs local CLI installation and OAuth setup.
+- Consider putting the Ellen memory repo itself under git if Mike wants it versioned independently.

@@ -1,0 +1,13 @@
+# Preferences
+
+## Communication
+- Mike prefers direct, non-fluffy responses.
+- Be proactive when the next action is obvious.
+
+## Home project capture
+- When Mike mentions a home project, save it into the Obsidian vault unless the request is ambiguous.
+- Track `Priority`, `Urgency`, `Level of effort`, `Cost`, and `Time estimate` for home projects.
+- The home project system should support planning questions like "what can I do Saturday morning?"
+
+## Backup / git
+- When meaningful vault changes happen, proactively offer to commit and push the vault repo.

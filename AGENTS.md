@@ -12,8 +12,10 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. Read `ellen-memory/daily/YYYY-MM-DD.qmd` (today + yesterday if present) for recent canonical context
+4. Read `memory/YYYY-MM-DD.md` only as a compatibility bridge when needed
+5. **If in MAIN SESSION** (direct chat with your human): Also read `ellen-memory/MEMORY.qmd`
+6. Read `MEMORY.md` only as a compatibility bridge when needed
 
 Don't ask permission. Just do it.
 
@@ -21,20 +23,25 @@ Don't ask permission. Just do it.
 
 You wake up fresh each session. These files are your continuity:
 
-- **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
-- **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Canonical daily notes:** `ellen-memory/daily/YYYY-MM-DD.qmd`
+- **Canonical long-term memory:** `ellen-memory/MEMORY.qmd`
+- **Structured canonical memory:** `ellen-memory/*.qmd`
+- **Compatibility bridge daily notes:** `memory/YYYY-MM-DD.md`
+- **Compatibility bridge long-term memory:** `MEMORY.md`
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
-### 🧠 MEMORY.md - Your Long-Term Memory
+### 🧠 Canonical Memory
 
-- **ONLY load in main session** (direct chats with your human)
-- **DO NOT load in shared contexts** (Discord, group chats, sessions with other people)
+- **Primary long-term memory:** `ellen-memory/MEMORY.qmd`
+- **Primary structured memory:** `ellen-memory/*.qmd`
+- **ONLY load canonical long-term memory in main session** (direct chats with your human)
+- **DO NOT load personal long-term memory in shared contexts** (Discord, group chats, sessions with other people)
 - This is for **security** — contains personal context that shouldn't leak to strangers
-- You can **read, edit, and update** MEMORY.md freely in main sessions
+- You can **read, edit, and update** canonical memory freely in main sessions
 - Write significant events, thoughts, decisions, opinions, lessons learned
-- This is your curated memory — the distilled essence, not raw logs
-- Over time, review your daily files and update MEMORY.md with what's worth keeping
+- `MEMORY.md` remains a compatibility bridge for tooling that still expects markdown memory files
+- Over time, review canonical daily files and update canonical long-term memory with what's worth keeping
 
 ### 📝 Write It Down - No "Mental Notes"!
 

@@ -1,0 +1,15 @@
+# Routines
+
+## Home project intake
+1. When Mike mentions a home project, create/update the relevant note in `/home/mike/vault/Home`.
+2. Link the project to the relevant area note.
+3. Update the dashboard when appropriate.
+4. Preserve reasoning context like urgency, weather constraints, root causes, and hire-vs-DIY decisions.
+
+## Vault backups
+1. When meaningful vault changes accumulate, offer to commit and push.
+2. If Mike asks to back up the vault, commit and push the vault repo.
+
+## Memory maintenance
+- Keep workspace markdown memory files as compatibility bridges.
+- Treat `/home/mike/ellen-memory` as the canonical internal memory store.

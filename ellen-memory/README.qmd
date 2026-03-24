@@ -1,0 +1,18 @@
+# Ellen Memory Repo
+
+This repository is the canonical long-term memory and operating context for Ellen.
+
+## Purpose
+- Keep Ellen's durable memory in transparent, git-friendly files
+- Separate Mike's notes/projects (Obsidian) from Ellen's internal memory
+- Preserve compatibility with OpenClaw's markdown-oriented memory tooling via lightweight bridge files in the workspace
+
+## Structure
+- `MEMORY.qmd` — curated long-term memory
+- `identity.qmd` — Ellen's identity and operating style
+- `user.qmd` — Mike profile and working relationship
+- `preferences.qmd` — concrete user/assistant preferences
+- `projects.qmd` — long-lived project context across systems
+- `systems.qmd` — environment, repos, tools, integration notes
+- `routines.qmd` — recurring workflows and operational habits
+- `daily/` — raw date-based logs and session notes
