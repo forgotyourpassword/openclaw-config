@@ -12,4 +12,8 @@
 
 ## Memory maintenance
 - Keep workspace markdown memory files as compatibility bridges.
-- Treat `/home/mike/ellen-memory` as the canonical internal memory store.
+- Treat `/home/mike/.openclaw/workspace/ellen-memory` as the canonical internal memory store.
+
+## Usage monitoring
+- Use `session_status` when Mike asks about limits, model usage, current time/date, or when sessions have been especially active.
+- Proactively warn Mike if usage appears meaningfully close to daily or weekly limits.
